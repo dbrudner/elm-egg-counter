@@ -34,3 +34,16 @@ button {
 	background-color: green;
 	color: white;
 }
+
+.input {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	width: 600px;
+	margin: auto;
+	border: 1px solid black;
+}
+
+.input > h3 {
+	border-bottom: 1px solid black;
+	padding-bottom: 20px;
+}
