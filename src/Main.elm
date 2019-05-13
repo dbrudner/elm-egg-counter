@@ -35,7 +35,7 @@ init : Model
 init =
     { age = ""
     , eggs = ""
-    , gender = Male
+    , gender = Female
     }
 
 
